@@ -1,0 +1,24 @@
+Nim   : 10121177
+Nama  : Muhamad Gilang Abdul Gani
+Kelas : IF-5
+
+PROJECT WEB MENGGUNAKAN PHP FRAMEWORK LARAVEL v10.34.2
+
+E-Commerce : Gumilang-Snack (Admin)
+
+Fitur
+- Login
+- Register
+- Logout
+- Landing page - (Home, Toko, Halaman (Shoping Cart, Check Out), Blog, Kontak)
+- Dashboard - View, Profile
+- Produk - (CRUD)
+- Lainnya fitur yg belum berjalan
+
+Cara Menjalankan:
+• Clone project atau download
+• Jalankan Composer Install di direktori folder
+• rename .env.example menjadi .env atau run command copy .env.example .env
+• Buka File env dan sesuaikan settingan Database nya
+• import database db_gumilang_snack.sql
+• Run php artisan serve untuk Menjalankan aplikasi
